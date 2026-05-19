@@ -71,7 +71,7 @@ Open **http://localhost:5050** in a browser (desktop or phone on same WiFi — u
 ## Known Issues / Gaps
 
 - Pet photos: [placedog.net](https://placedog.net) (dogs), [loremflickr.com](https://loremflickr.com) (most species), [placecats.com](https://placecats.com) (pets 80–100); requires network access
-- Undo only applies to votes cast in the current page session (not votes restored from a prior reload)
+
 
 ---
 
