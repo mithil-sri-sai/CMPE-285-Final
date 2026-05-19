@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "1",
+    "name": "Buddy",
+    "type": "Dog",
+    "breed": "Golden Retriever",
+    "label": "Buddy \u00b7 Golden Retriever",
+    "description": "Loves cuddles and long naps in the sun.",
+    "age": "3 mo old",
+    "image": "https://placedog.net/600/800?id=1"
+  },
+  {
+    "id": "2",
+    "name": "Max",
+    "type": "Dog",
+    "breed": "Labrador",
+    "label": "Max \u00b7 Labrador",
+    "description": "Energetic and playful, great with kids.",
+    "age": "3 yr old",
+    "image": "https://placedog.net/600/800?id=2"
+  },
+  {
+    "id": "3",
+    "name": "Bella",
+    "type": "Dog",
+    "breed": "Beagle",
+    "label": "Bella \u00b7 Beagle",
+    "description": "Gentle giant looking for a cozy home.",
+    "age": "2 yr old",
+    "image": "https://placedog.net/600/800?id=3"
+  },
+  {
+    "id": "4",
+    "name": "Luna",
+    "type": "Dog",
+    "breed": "Poodle",
+    "label": "Luna \u00b7 Poodle",
+    "description": "Super friendly and loves belly rubs.",
+    "age": "1 yr old",
+    "image": "https://placedog.net/600/800?id=4"
+  },
+  {
+    "id": "5",
+    "name": "Charlie",
+    "type": "Dog",
+    "breed": "Bulldog",
+    "label": "Charlie \u00b7 Bulldog",
+    "description": "Shy at first but incredibly loyal once comfortable.",
+    "age": "2 yr old",
+    "image": "https://placedog.net/600/800?id=5"
+  },
+  {
+    "id": "6",
+    "name": "Lucy",
+    "type": "Dog",
+    "breed": "Husky",
+    "label": "Lucy \u00b7 Husky",
+    "description": "Mischievous and curious \u2014 always exploring.",
+    "age": "8 mo old",
+    "image": "https://placedog.net/600/800?id=6"
+  },
+  {
+    "id": "7",
+    "name": "Cooper",
+    "type": "Dog",
+    "breed": "Dachshund",
+    "label": "Cooper \u00b7 Dachshund",
+    "description": "Loves outdoor adventures and fetch.",
+    "age": "8 yr old",
+    "image": "https://placedog.net/600/800?id=7"
+  },
+  {
+    "id": "8",
+    "name": "Daisy",
+    "type": "Dog",
+    "breed": "Shih Tzu",
+    "label": "Daisy \u00b7 Shih Tzu",
+    "description": "A total lap pet who adores TV time.",
+    "age": "2 yr old",
+    "image": "https://placedog.net/600/800?id=8"
+  },
+  {
+    "id": "9",
+    "name": "Rocky",
+    "type": "Dog",
+    "breed": "Pug",
+    "label": "Rocky \u00b7 Pug",
+    "description": "Incredibly gentle with a heart of gold.",
+    "age": "5 yr old",
+    "image": "https://placedog.net/600/800?id=9"
+  },
+  {
+    "id": "10",
+    "name": "Lola",
+    "type": "Dog",
+    "breed": "Boxer",
+    "label": "Lola \u00b7 Boxer",
+    "description": "Playful and social, gets along with everyone.",
+    "age": "8 yr old",
+    "image": "https://placedog.net/600/800?id=10"
+  },
+  {
+    "id": "11",
+    "name": "Oliver",
+    "type": "Dog",
+    "breed": "Border Collie",
+    "label": "Oliver \u00b7 Border Collie",
+    "description": "Loves treats and showing off tricks.",
+    "age": "1 yr old",
+    "image": "https://placedog.net/600/800?id=11"
+  },
+  {
+    "id": "12",
+    "name": "Zoe",
+    "type": "Dog",
+    "breed": "Chihuahua",
+    "label": "Zoe \u00b7 Chihuahua",
+    "description": "Calm and patient \u2014 the perfect companion.",
+    "age": "1 yr old",
+    "image": "https://placedog.net/600/800?id=12"
+  },
+  {
+    "id": "13",
+    "name": "Milo",
+    "type": "Dog",
+    "breed": "German Shepherd",
+    "label": "Milo \u00b7 German Shepherd",
+    "description": "Bouncy and affectionate, full of personality.",
+    "age": "5 mo old",
+    "image": "https://placedog.net/600/800?id=13"
+  },
+  {
+    "id": "14",
+    "name": "Sadie",
+    "type": "Dog",
+    "breed": "Cocker Spaniel",
+    "label": "Sadie \u00b7 Cocker Spaniel",
+    "description": "Incredibly smart and learns new tricks fast.",
+    "age": "5 mo old",
+    "image": "https://placedog.net/600/800?id=14"
+  },
+  {
+    "id": "15",
+    "name": "Leo",
+    "type": "Dog",
+    "breed": "Doberman",
+    "label": "Leo \u00b7 Doberman",
+    "description": "Loves water and outdoor activities.",
+    "age": "10 mo old",
+    "image": "https://placedog.net/600/800?id=15"
+  },
+  {
+    "id": "16",
+    "name": "Molly",
+    "type": "Dog",
+    "breed": "Maltese",
+    "label": "Molly \u00b7 Maltese",
+    "description": "The calmest soul you will ever meet.",
+    "age": "7 yr old",
+    "image": "https://placedog.net/600/800?id=16"
+  },
+  {
+    "id": "17",
+    "name": "Jack",
+    "type": "Dog",
+    "breed": "Dalmatian",
+    "label": "Jack \u00b7 Dalmatian",
+    "description": "Cheeky and charming \u2014 steals your heart instantly.",
+    "age": "4 yr old",
+    "image": "https://placedog.net/600/800?id=17"
+  },
+  {
+    "id": "18",
+    "name": "Bailey",
+    "type": "Dog",
+    "breed": "Samoyed",
+    "label": "Bailey \u00b7 Samoyed",
+    "description": "Snuggly and sweet, loves couch days.",
+    "age": "5 yr old",
+    "image": "https://placedog.net/600/800?id=18"
+  },
+  {
+    "id": "19",
+    "name": "Duke",
+    "type": "Dog",
+    "breed": "Corgi",
+    "label": "Duke \u00b7 Corgi",
+    "description": "Bold and curious, loves new experiences.",
+    "age": "8 mo old",
+    "image": "https://placedog.net/600/800?id=19"
+  },
+  {
+    "id": "20",
+    "name": "Maggie",
+    "type": "Dog",
+    "breed": "Akita",
+    "label": "Maggie \u00b7 Akita",
+    "description": "Old soul with puppy energy \u2014 best of both worlds.",
+    "age": "4 yr old",
+    "image": "https://placedog.net/600/800?id=20"
+  },
+  {
+    "id": "21",
+    "name": "Toby",
+    "type": "Dog",
+    "breed": "Rottweiler",
+    "label": "Toby \u00b7 Rottweiler",
+    "description": "Loves cuddles and long naps in the sun.",
+    "age": "7 yr old",
+    "image": "https://placedog.net/600/800?id=21"
+  },
+  {
+    "id": "22",
+    "name": "Sophie",
+    "type": "Dog",
+    "breed": "Great Dane",
+    "label": "Sophie \u00b7 Great Dane",
+    "description": "Energetic and playful, great with kids.",
+    "age": "4 mo old",
+    "image": "https://placedog.net/600/800?id=22"
+  },
+  {
+    "id": "23",
+    "name": "Teddy",
+    "type": "Dog",
+    "breed": "Shiba Inu",
+    "label": "Teddy \u00b7 Shiba Inu",
+    "description": "Gentle giant looking for a cozy home.",
+    "age": "2 mo old",
+    "image": "https://placedog.net/600/800?id=23"
+  },
+  {
+    "id": "24",
+    "name": "Chloe",
+    "type": "Dog",
+    "breed": "Australian Shepherd",
+    "label": "Chloe \u00b7 Australian Shepherd",
+    "description": "Super friendly and loves belly rubs.",
+    "age": "2 yr old",
+    "image": "https://placedog.net/600/800?id=24"
+  },
+  {
+    "id": "25",
+    "name": "Riley",
+    "type": "Dog",
+    "breed": "Basset Hound",
+    "label": "Riley \u00b7 Basset Hound",
+    "description": "Shy at first but incredibly loyal once comfortable.",
+    "age": "4 yr old",
+    "image": "https://placedog.net/600/800?id=25"
+  },
+  {
+    "id": "26",
+    "name": "Lily",
+    "type": "Cat",
+    "breed": "Siamese",
+    "label": "Lily \u00b7 Siamese",
+    "description": "Mischievous and curious \u2014 always exploring.",
+    "age": "6 mo old",
+    "image": "https://loremflickr.com/600/800/cat?lock=26"
+  },
+  {
+    "id": "27",
+    "name": "Bear",
+    "type": "Cat",
+    "breed": "Persian",
+    "label": "Bear \u00b7 Persian",
+    "description": "Loves outdoor adventures and fetch.",
+    "age": "4 mo old",
+    "image": "https://loremflickr.com/600/800/cat?lock=27"
+  },
+  {
+    "id": "28",
+    "name": "Roxy",
+    "type": "Cat",
+    "breed": "Maine Coon",
+    "label": "Roxy \u00b7 Maine Coon",
+    "description": "A total lap pet who adores TV time.",
+    "age": "2 yr old",
+    "image": "https://loremflickr.com/600/800/cat?lock=28"
+  },
+  {
+    "id": "29",
+    "name": "Tucker",
+    "type": "Cat",
+    "breed": "Ragdoll",
+    "label": "Tucker \u00b7 Ragdoll",
+    "description": "Incredibly gentle with a heart of gold.",
+    "age": "2 yr old",
+    "image": "https://loremflickr.com/600/800/cat?lock=29"
+  },
+  {
+    "id": "30",
+    "name": "Gracie",
+    "type": "Cat",
+    "breed": "Bengal",
+    "label": "Gracie \u00b7 Bengal",
+    "description": "Playful and social, gets along with everyone.",
+    "age": "5 mo old",
+    "image": "https://loremflickr.com/600/800/cat?lock=30"
+  },
+  {
+    "id": "31",
+    "name": "Oscar",
+    "type": "Cat",
+    "breed": "Scottish Fold",
+    "label": "Oscar \u00b7 Scottish Fold",
+    "description": "Loves treats and showing off tricks.",
+    "age": "4 yr old",
+    "image": "https://loremflickr.com/600/800/cat?lock=31"
+  },
+  {
+    "id": "32",
+    "name": "Coco",
+    "type": "Cat",
+    "breed": "Sphynx",
+    "label": "Coco \u00b7 Sphynx",
+    "description": "Calm and patient \u2014 the perfect companion.",
+    "age": "3 yr old",
+    "image": "https://loremflickr.com/600/800/cat?lock=32"
+  },
+  {
+    "id": "33",
+    "name": "Murphy",
+    "type": "Cat",
+    "breed": "Birman",
+    "label": "Murphy \u00b7 Birman",
+    "description": "Bouncy and affectionate, full of personality.",
+    "age": "5 mo old",
+    "image": "https://loremflickr.com/600/800/cat?lock=33"
+  },
+  {
+    "id": "34",
+    "name": "Stella",
+    "type": "Cat",
+    "breed": "Abyssinian",
+    "label": "Stella \u00b7 Abyssinian",
+    "description": "Incredibly smart and learns new tricks fast.",
+    "age": "6 mo old",
+    "image": "https://loremflickr.com/600/800/cat?lock=34"
+  },
+  {
+    "id": "35",
+    "name": "Buster",
+    "type": "Cat",
+    "breed": "British Shorthair",
+    "label": "Buster \u00b7 British Shorthair",
+    "description": "Loves water and outdoor activities.",
+    "age": "4 mo old",
+    "image": "https://loremflickr.com/600/800/cat?lock=35"
+  },
+  {
+    "id": "36",
+    "name": "Nala",
+    "type": "Cat",
+    "breed": "Russian Blue",
+    "label": "Nala \u00b7 Russian Blue",
+    "description": "The calmest soul you will ever meet.",
+    "age": "2 yr old",
+    "image": "https://loremflickr.com/600/800/cat?lock=36"
+  },
+  {
+    "id": "37",
+    "name": "Bentley",
+    "type": "Cat",
+    "breed": "Norwegian Forest",
+    "label": "Bentley \u00b7 Norwegian Forest",
+    "description": "Cheeky and charming \u2014 steals your heart instantly.",
+    "age": "10 mo old",
+    "image": "https://loremflickr.com/600/800/cat?lock=37"
+  },
+  {
+    "id": "38",
+    "name": "Ellie",
+    "type": "Cat",
+    "breed": "Burmese",
+    "label": "Ellie \u00b7 Burmese",
+    "description": "Snuggly and sweet, loves couch days.",
+    "age": "6 yr old",
+    "image": "https://loremflickr.com/600/800/cat?lock=38"
+  },
+  {
+    "id": "39",
+    "name": "Zeus",
+    "type": "Cat",
+    "breed": "Tonkinese",
+    "label": "Zeus \u00b7 Tonkinese",
+    "description": "Bold and curious, loves new experiences.",
+    "age": "3 yr old",
+    "image": "https://loremflickr.com/600/800/cat?lock=39"
+  },
+  {
+    "id": "40",
+    "name": "Penny",
+    "type": "Cat",
+    "breed": "Manx",
+    "label": "Penny \u00b7 Manx",
+    "description": "Old soul with puppy energy \u2014 best of both worlds.",
+    "age": "7 yr old",
+    "image": "https://loremflickr.com/600/800/cat?lock=40"
+  },
+  {
+    "id": "41",
+    "name": "Ginger",
+    "type": "Cat",
+    "breed": "Ocicat",
+    "label": "Ginger \u00b7 Ocicat",
+    "description": "Loves cuddles and long naps in the sun.",
+    "age": "12 mo old",
+    "image": "https://loremflickr.com/600/800/cat?lock=41"
+  },
+  {
+    "id": "42",
+    "name": "Rusty",
+    "type": "Cat",
+    "breed": "Turkish Angora",
+    "label": "Rusty \u00b7 Turkish Angora",
+    "description": "Energetic and playful, great with kids.",
+    "age": "10 mo old",
+    "image": "https://loremflickr.com/600/800/cat?lock=42"
+  },
+  {
+    "id": "43",
+    "name": "Peanut",
+    "type": "Cat",
+    "breed": "Somali",
+    "label": "Peanut \u00b7 Somali",
+    "description": "Gentle giant looking for a cozy home.",
+    "age": "1 yr old",
+    "image": "https://loremflickr.com/600/800/cat?lock=43"
+  },
+  {
+    "id": "44",
+    "name": "Willow",
+    "type": "Cat",
+    "breed": "Balinese",
+    "label": "Willow \u00b7 Balinese",
+    "description": "Super friendly and loves belly rubs.",
+    "age": "2 yr old",
+    "image": "https://loremflickr.com/600/800/cat?lock=44"
+  },
+  {
+    "id": "45",
+    "name": "Bruno",
+    "type": "Cat",
+    "breed": "Devon Rex",
+    "label": "Bruno \u00b7 Devon Rex",
+    "description": "Shy at first but incredibly loyal once comfortable.",
+    "age": "7 yr old",
+    "image": "https://loremflickr.com/600/800/cat?lock=45"
+  },
+  {
+    "id": "46",
+    "name": "Hazel",
+    "type": "Cat",
+    "breed": "American Shorthair",
+    "label": "Hazel \u00b7 American Shorthair",
+    "description": "Mischievous and curious \u2014 always exploring.",
+    "age": "12 mo old",
+    "image": "https://loremflickr.com/600/800/cat?lock=46"
+  },
+  {
+    "id": "47",
+    "name": "Shadow",
+    "type": "Cat",
+    "breed": "Exotic Shorthair",
+    "label": "Shadow \u00b7 Exotic Shorthair",
+    "description": "Loves outdoor adventures and fetch.",
+    "age": "4 mo old",
+    "image": "https://loremflickr.com/600/800/cat?lock=47"
+  },
+  {
+    "id": "48",
+    "name": "Rosie",
+    "type": "Cat",
+    "breed": "Himalayan",
+    "label": "Rosie \u00b7 Himalayan",
+    "description": "A total lap pet who adores TV time.",
+    "age": "2 mo old",
+    "image": "https://loremflickr.com/600/800/cat?lock=48"
+  },
+  {
+    "id": "49",
+    "name": "Finn",
+    "type": "Cat",
+    "breed": "Savannah",
+    "label": "Finn \u00b7 Savannah",
+    "description": "Incredibly gentle with a heart of gold.",
+    "age": "10 mo old",
+    "image": "https://loremflickr.com/600/800/cat?lock=49"
+  },
+  {
+    "id": "50",
+    "name": "Ruby",
+    "type": "Cat",
+    "breed": "Selkirk Rex",
+    "label": "Ruby \u00b7 Selkirk Rex",
+    "description": "Playful and social, gets along with everyone.",
+    "age": "6 mo old",
+    "image": "https://loremflickr.com/600/800/cat?lock=50"
+  },
+  {
+    "id": "51",
+    "name": "Simba",
+    "type": "Rabbit",
+    "breed": "Holland Lop",
+    "label": "Simba \u00b7 Holland Lop",
+    "description": "Loves treats and showing off tricks.",
+    "age": "2 mo old",
+    "image": "https://loremflickr.com/600/800/rabbit?lock=51"
+  },
+  {
+    "id": "52",
+    "name": "Lulu",
+    "type": "Rabbit",
+    "breed": "Mini Rex",
+    "label": "Lulu \u00b7 Mini Rex",
+    "description": "Calm and patient \u2014 the perfect companion.",
+    "age": "8 mo old",
+    "image": "https://loremflickr.com/600/800/rabbit?lock=52"
+  },
+  {
+    "id": "53",
+    "name": "Thor",
+    "type": "Rabbit",
+    "breed": "Lionhead",
+    "label": "Thor \u00b7 Lionhead",
+    "description": "Bouncy and affectionate, full of personality.",
+    "age": "2 yr old",
+    "image": "https://loremflickr.com/600/800/rabbit?lock=53"
+  },
+  {
+    "id": "54",
+    "name": "Violet",
+    "type": "Rabbit",
+    "breed": "Dutch",
+    "label": "Violet \u00b7 Dutch",
+    "description": "Incredibly smart and learns new tricks fast.",
+    "age": "2 yr old",
+    "image": "https://loremflickr.com/600/800/rabbit?lock=54"
+  },
+  {
+    "id": "55",
+    "name": "Jasper",
+    "type": "Rabbit",
+    "breed": "Flemish Giant",
+    "label": "Jasper \u00b7 Flemish Giant",
+    "description": "Loves water and outdoor activities.",
+    "age": "3 mo old",
+    "image": "https://loremflickr.com/600/800/rabbit?lock=55"
+  },
+  {
+    "id": "56",
+    "name": "Mia",
+    "type": "Rabbit",
+    "breed": "Angora",
+    "label": "Mia \u00b7 Angora",
+    "description": "The calmest soul you will ever meet.",
+    "age": "5 mo old",
+    "image": "https://loremflickr.com/600/800/rabbit?lock=56"
+  },
+  {
+    "id": "57",
+    "name": "Atlas",
+    "type": "Rabbit",
+    "breed": "Harlequin",
+    "label": "Atlas \u00b7 Harlequin",
+    "description": "Cheeky and charming \u2014 steals your heart instantly.",
+    "age": "10 mo old",
+    "image": "https://loremflickr.com/600/800/rabbit?lock=57"
+  },
+  {
+    "id": "58",
+    "name": "Ivy",
+    "type": "Rabbit",
+    "breed": "Himalayan",
+    "label": "Ivy \u00b7 Himalayan",
+    "description": "Snuggly and sweet, loves couch days.",
+    "age": "10 mo old",
+    "image": "https://loremflickr.com/600/800/rabbit?lock=58"
+  },
+  {
+    "id": "59",
+    "name": "Caesar",
+    "type": "Rabbit",
+    "breed": "Californian",
+    "label": "Caesar \u00b7 Californian",
+    "description": "Bold and curious, loves new experiences.",
+    "age": "2 mo old",
+    "image": "https://loremflickr.com/600/800/rabbit?lock=59"
+  },
+  {
+    "id": "60",
+    "name": "Nova",
+    "type": "Rabbit",
+    "breed": "Rex",
+    "label": "Nova \u00b7 Rex",
+    "description": "Old soul with puppy energy \u2014 best of both worlds.",
+    "age": "6 mo old",
+    "image": "https://loremflickr.com/600/800/rabbit?lock=60"
+  },
+  {
+    "id": "61",
+    "name": "Archie",
+    "type": "Rabbit",
+    "breed": "New Zealand",
+    "label": "Archie \u00b7 New Zealand",
+    "description": "Loves cuddles and long naps in the sun.",
+    "age": "2 mo old",
+    "image": "https://loremflickr.com/600/800/rabbit?lock=61"
+  },
+  {
+    "id": "62",
+    "name": "Olive",
+    "type": "Rabbit",
+    "breed": "Chinchilla",
+    "label": "Olive \u00b7 Chinchilla",
+    "description": "Energetic and playful, great with kids.",
+    "age": "6 yr old",
+    "image": "https://loremflickr.com/600/800/rabbit?lock=62"
+  },
+  {
+    "id": "63",
+    "name": "Louie",
+    "type": "Rabbit",
+    "breed": "Mini Lop",
+    "label": "Louie \u00b7 Mini Lop",
+    "description": "Gentle giant looking for a cozy home.",
+    "age": "4 mo old",
+    "image": "https://loremflickr.com/600/800/rabbit?lock=63"
+  },
+  {
+    "id": "64",
+    "name": "Scout",
+    "type": "Rabbit",
+    "breed": "Polish",
+    "label": "Scout \u00b7 Polish",
+    "description": "Super friendly and loves belly rubs.",
+    "age": "2 yr old",
+    "image": "https://loremflickr.com/600/800/rabbit?lock=64"
+  },
+  {
+    "id": "65",
+    "name": "Sam",
+    "type": "Rabbit",
+    "breed": "Silver Marten",
+    "label": "Sam \u00b7 Silver Marten",
+    "description": "Shy at first but incredibly loyal once comfortable.",
+    "age": "3 mo old",
+    "image": "https://loremflickr.com/600/800/rabbit?lock=65"
+  },
+  {
+    "id": "66",
+    "name": "Amber",
+    "type": "Bird",
+    "breed": "Cockatiel",
+    "label": "Amber \u00b7 Cockatiel",
+    "description": "Mischievous and curious \u2014 always exploring.",
+    "age": "8 mo old",
+    "image": "https://loremflickr.com/600/800/bird?lock=66"
+  },
+  {
+    "id": "67",
+    "name": "Rex",
+    "type": "Bird",
+    "breed": "Parakeet",
+    "label": "Rex \u00b7 Parakeet",
+    "description": "Loves outdoor adventures and fetch.",
+    "age": "2 mo old",
+    "image": "https://loremflickr.com/600/800/bird?lock=67"
+  },
+  {
+    "id": "68",
+    "name": "Pepper",
+    "type": "Bird",
+    "breed": "African Grey",
+    "label": "Pepper \u00b7 African Grey",
+    "description": "A total lap pet who adores TV time.",
+    "age": "4 yr old",
+    "image": "https://loremflickr.com/600/800/bird?lock=68"
+  },
+  {
+    "id": "69",
+    "name": "Winston",
+    "type": "Bird",
+    "breed": "Macaw",
+    "label": "Winston \u00b7 Macaw",
+    "description": "Incredibly gentle with a heart of gold.",
+    "age": "10 mo old",
+    "image": "https://loremflickr.com/600/800/bird?lock=69"
+  },
+  {
+    "id": "70",
+    "name": "Cleo",
+    "type": "Bird",
+    "breed": "Conure",
+    "label": "Cleo \u00b7 Conure",
+    "description": "Playful and social, gets along with everyone.",
+    "age": "3 yr old",
+    "image": "https://loremflickr.com/600/800/bird?lock=70"
+  },
+  {
+    "id": "71",
+    "name": "Chester",
+    "type": "Bird",
+    "breed": "Lovebird",
+    "label": "Chester \u00b7 Lovebird",
+    "description": "Loves treats and showing off tricks.",
+    "age": "4 mo old",
+    "image": "https://loremflickr.com/600/800/bird?lock=71"
+  },
+  {
+    "id": "72",
+    "name": "Pearl",
+    "type": "Bird",
+    "breed": "Cockatoo",
+    "label": "Pearl \u00b7 Cockatoo",
+    "description": "Calm and patient \u2014 the perfect companion.",
+    "age": "12 mo old",
+    "image": "https://loremflickr.com/600/800/bird?lock=72"
+  },
+  {
+    "id": "73",
+    "name": "Ranger",
+    "type": "Bird",
+    "breed": "Canary",
+    "label": "Ranger \u00b7 Canary",
+    "description": "Bouncy and affectionate, full of personality.",
+    "age": "2 yr old",
+    "image": "https://loremflickr.com/600/800/bird?lock=73"
+  },
+  {
+    "id": "74",
+    "name": "Abby",
+    "type": "Bird",
+    "breed": "Finch",
+    "label": "Abby \u00b7 Finch",
+    "description": "Incredibly smart and learns new tricks fast.",
+    "age": "4 mo old",
+    "image": "https://loremflickr.com/600/800/bird?lock=74"
+  },
+  {
+    "id": "75",
+    "name": "Boomer",
+    "type": "Bird",
+    "breed": "Eclectus",
+    "label": "Boomer \u00b7 Eclectus",
+    "description": "Loves water and outdoor activities.",
+    "age": "4 mo old",
+    "image": "https://loremflickr.com/600/800/bird?lock=75"
+  },
+  {
+    "id": "76",
+    "name": "Elsa",
+    "type": "Bird",
+    "breed": "Sun Conure",
+    "label": "Elsa \u00b7 Sun Conure",
+    "description": "The calmest soul you will ever meet.",
+    "age": "1 yr old",
+    "image": "https://loremflickr.com/600/800/bird?lock=76"
+  },
+  {
+    "id": "77",
+    "name": "Gus",
+    "type": "Bird",
+    "breed": "Quaker Parrot",
+    "label": "Gus \u00b7 Quaker Parrot",
+    "description": "Cheeky and charming \u2014 steals your heart instantly.",
+    "age": "5 mo old",
+    "image": "https://loremflickr.com/600/800/bird?lock=77"
+  },
+  {
+    "id": "78",
+    "name": "Athena",
+    "type": "Bird",
+    "breed": "Budgerigar",
+    "label": "Athena \u00b7 Budgerigar",
+    "description": "Snuggly and sweet, loves couch days.",
+    "age": "10 mo old",
+    "image": "https://loremflickr.com/600/800/bird?lock=78"
+  },
+  {
+    "id": "79",
+    "name": "Beau",
+    "type": "Bird",
+    "breed": "Indian Ringneck",
+    "label": "Beau \u00b7 Indian Ringneck",
+    "description": "Bold and curious, loves new experiences.",
+    "age": "2 mo old",
+    "image": "https://loremflickr.com/600/800/bird?lock=79"
+  },
+  {
+    "id": "80",
+    "name": "Freya",
+    "type": "Bird",
+    "breed": "Caique",
+    "label": "Freya \u00b7 Caique",
+    "description": "Old soul with puppy energy \u2014 best of both worlds.",
+    "age": "12 mo old",
+    "image": "https://placecats.com/600/800?id=80"
+  },
+  {
+    "id": "81",
+    "name": "Jake",
+    "type": "Hamster",
+    "breed": "Syrian",
+    "label": "Jake \u00b7 Syrian",
+    "description": "Loves cuddles and long naps in the sun.",
+    "age": "8 mo old",
+    "image": "https://placecats.com/600/800?id=81"
+  },
+  {
+    "id": "82",
+    "name": "Xena",
+    "type": "Hamster",
+    "breed": "Dwarf Campbell",
+    "label": "Xena \u00b7 Dwarf Campbell",
+    "description": "Energetic and playful, great with kids.",
+    "age": "5 yr old",
+    "image": "https://placecats.com/600/800?id=82"
+  },
+  {
+    "id": "83",
+    "name": "Ace",
+    "type": "Hamster",
+    "breed": "Roborovski",
+    "label": "Ace \u00b7 Roborovski",
+    "description": "Gentle giant looking for a cozy home.",
+    "age": "7 yr old",
+    "image": "https://placecats.com/600/800?id=83"
+  },
+  {
+    "id": "84",
+    "name": "Poppy",
+    "type": "Hamster",
+    "breed": "Chinese",
+    "label": "Poppy \u00b7 Chinese",
+    "description": "Super friendly and loves belly rubs.",
+    "age": "8 mo old",
+    "image": "https://placecats.com/600/800?id=84"
+  },
+  {
+    "id": "85",
+    "name": "Captain",
+    "type": "Hamster",
+    "breed": "Winter White",
+    "label": "Captain \u00b7 Winter White",
+    "description": "Shy at first but incredibly loyal once comfortable.",
+    "age": "4 yr old",
+    "image": "https://placecats.com/600/800?id=85"
+  },
+  {
+    "id": "86",
+    "name": "Millie",
+    "type": "Hamster",
+    "breed": "European",
+    "label": "Millie \u00b7 European",
+    "description": "Mischievous and curious \u2014 always exploring.",
+    "age": "8 yr old",
+    "image": "https://placecats.com/600/800?id=86"
+  },
+  {
+    "id": "87",
+    "name": "Diesel",
+    "type": "Hamster",
+    "breed": "Golden",
+    "label": "Diesel \u00b7 Golden",
+    "description": "Loves outdoor adventures and fetch.",
+    "age": "2 yr old",
+    "image": "https://placecats.com/600/800?id=87"
+  },
+  {
+    "id": "88",
+    "name": "Aurora",
+    "type": "Hamster",
+    "breed": "Fancy",
+    "label": "Aurora \u00b7 Fancy",
+    "description": "A total lap pet who adores TV time.",
+    "age": "10 mo old",
+    "image": "https://placecats.com/600/800?id=88"
+  },
+  {
+    "id": "89",
+    "name": "Hunter",
+    "type": "Hamster",
+    "breed": "Teddy Bear",
+    "label": "Hunter \u00b7 Teddy Bear",
+    "description": "Incredibly gentle with a heart of gold.",
+    "age": "8 mo old",
+    "image": "https://placecats.com/600/800?id=89"
+  },
+  {
+    "id": "90",
+    "name": "Cali",
+    "type": "Hamster",
+    "breed": "Black Bear",
+    "label": "Cali \u00b7 Black Bear",
+    "description": "Playful and social, gets along with everyone.",
+    "age": "5 yr old",
+    "image": "https://placecats.com/600/800?id=90"
+  },
+  {
+    "id": "91",
+    "name": "Memphis",
+    "type": "Guinea Pig",
+    "breed": "American",
+    "label": "Memphis \u00b7 American",
+    "description": "Loves treats and showing off tricks.",
+    "age": "10 mo old",
+    "image": "https://placecats.com/600/800?id=91"
+  },
+  {
+    "id": "92",
+    "name": "Fiona",
+    "type": "Guinea Pig",
+    "breed": "Abyssinian",
+    "label": "Fiona \u00b7 Abyssinian",
+    "description": "Calm and patient \u2014 the perfect companion.",
+    "age": "6 yr old",
+    "image": "https://placecats.com/600/800?id=92"
+  },
+  {
+    "id": "93",
+    "name": "Dexter",
+    "type": "Guinea Pig",
+    "breed": "Peruvian",
+    "label": "Dexter \u00b7 Peruvian",
+    "description": "Bouncy and affectionate, full of personality.",
+    "age": "7 yr old",
+    "image": "https://placecats.com/600/800?id=93"
+  },
+  {
+    "id": "94",
+    "name": "Sasha",
+    "type": "Guinea Pig",
+    "breed": "Silkie",
+    "label": "Sasha \u00b7 Silkie",
+    "description": "Incredibly smart and learns new tricks fast.",
+    "age": "3 yr old",
+    "image": "https://placecats.com/600/800?id=94"
+  },
+  {
+    "id": "95",
+    "name": "Phoenix",
+    "type": "Guinea Pig",
+    "breed": "Teddy",
+    "label": "Phoenix \u00b7 Teddy",
+    "description": "Loves water and outdoor activities.",
+    "age": "12 mo old",
+    "image": "https://placecats.com/600/800?id=95"
+  },
+  {
+    "id": "96",
+    "name": "Callie",
+    "type": "Guinea Pig",
+    "breed": "Rex",
+    "label": "Callie \u00b7 Rex",
+    "description": "The calmest soul you will ever meet.",
+    "age": "1 yr old",
+    "image": "https://placecats.com/600/800?id=96"
+  },
+  {
+    "id": "97",
+    "name": "Titan",
+    "type": "Guinea Pig",
+    "breed": "Coronet",
+    "label": "Titan \u00b7 Coronet",
+    "description": "Cheeky and charming \u2014 steals your heart instantly.",
+    "age": "6 mo old",
+    "image": "https://placecats.com/600/800?id=97"
+  },
+  {
+    "id": "98",
+    "name": "Gemma",
+    "type": "Guinea Pig",
+    "breed": "White Crested",
+    "label": "Gemma \u00b7 White Crested",
+    "description": "Snuggly and sweet, loves couch days.",
+    "age": "3 yr old",
+    "image": "https://placecats.com/600/800?id=98"
+  },
+  {
+    "id": "99",
+    "name": "Duke",
+    "type": "Guinea Pig",
+    "breed": "Merino",
+    "label": "Duke \u00b7 Merino",
+    "description": "Bold and curious, loves new experiences.",
+    "age": "4 yr old",
+    "image": "https://placecats.com/600/800?id=99"
+  },
+  {
+    "id": "100",
+    "name": "Skye",
+    "type": "Guinea Pig",
+    "breed": "Texel",
+    "label": "Skye \u00b7 Texel",
+    "description": "Old soul with puppy energy \u2014 best of both worlds.",
+    "age": "8 yr old",
+    "image": "https://placecats.com/600/800?id=100"
+  }
+]
