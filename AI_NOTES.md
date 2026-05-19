@@ -2,7 +2,7 @@
 
 ## How I used AI overall
 
-I treated the AI as a **pair-programming assistant**, not a substitute for reading code or making decisions. I chose the theme (adoptable pets), sketched the screens, picked Flask + SQLite, and verified every requirement myself on a real device. The AI helped most with **boilerplate, first drafts, and speeding up repetitive work** — I reviewed, changed, and often replaced its output before it went into the submission.
+I treated the AI as a **pair-programming assistant**, not a substitute for reading code or making decisions. I chose the theme (adoptable pets), sketched the screens, picked Flask + SQLite, and verified every requirement myself on a real device. The AI helped most with **boilerplate, first drafts, and speeding up repetitive work**. I reviewed, changed, and often replaced its output before it went into the submission.
 
 ---
 
