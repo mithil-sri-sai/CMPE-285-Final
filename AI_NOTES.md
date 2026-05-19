@@ -46,10 +46,10 @@ Rough swipe math (delta → translate + rotate + hint opacity) came back usable 
 
 ## One thing AI did worse than I expected
 
-Visual design needed explicit direction. The first results screen was a flat list with raw counts. I had to specify percentage bars, colour by yes-rate, rank/breed fields, and separate sort modes (most loved, divisive, matches, etc.) to get something that felt intentional.
+The initial results view was purely a list with no visual hierarchy but just pet names and raw counts. I had to explicitly ask for a percentage bar and colour-coded yes percentage, and specify that the rank number, breed, and divisiveness sort should all be separate fields.
 
 ---
 
 ## Other AI tools
 
-No other AI tools were used for this submission.
+No other AI tools were used alongside Claude for this submission.
