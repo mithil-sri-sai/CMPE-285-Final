@@ -18,7 +18,7 @@ I treated the AI as a **pair-programming assistant**, not a substitute for readi
 
 ---
 
-## Where AI helped (first drafts / snippets only)
+## Which parts did Claude help at? 
 
 | Area | AI role | What I did after |
 |------|---------|------------------|
